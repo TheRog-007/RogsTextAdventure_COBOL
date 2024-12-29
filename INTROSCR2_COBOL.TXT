@@ -1,0 +1,28 @@
+********************************************************************************
+*  TTTTTTT   RRRRRRR    AAAAAAA    PPPPPPP    PPPPPPP    EEEEEEE    DDDDDD     *
+*     T      R     R    A     A    P     P    P     P    E          D     D    *
+*     T      RRRRRRR    AAAAAAA    PPPPPPP    PPPPPPP    EEEEEEE    D     D    *
+*     T      RR         A     A    P          P          E          D     D    *
+*     T      R    R     A     A    P          P          EEEEEEE    DDDDDD     *
+*                                                                              *
+*                         IIIIIII       N       N                              *
+*                            I          N N     N                              *
+*                            I          N    N  N                              *
+*                         IIIIIII       N       N                              *
+*                                                                              *
+* M         M IIIIIII CCCCCC  RRRRRR OOOOOO SSSSSS  OOOOOO  FFFFFF TTTTTT  O O *
+* M M     M M    I    C       R    R O    O S       O    O  F        T     O O *
+* M  M   M  M    I    C       RRRRRR O    O SSSSSS  O    O  FFFFFF   T     O O *
+* M   M M   M    I    C       RR     O    O      S  O    O  F        T         *
+* M    M    M    I    C       R R    O    O      S  O    O  F        T     O O *
+* M         M IIIIIII CCCCCC  R   R  OOOOOO SSSSSS  OOOOOO  F        T     O O *
+*                                                                              *
+*       OOOOOOOOOOO                                                            *
+*       O         O               -------------------------------------------  *
+*       O         O----\          |Reliability.exe caused an exception error|  *
+*       OOOOOOOOOOO     \---------|in kernel32.dll luckily for you this isnt|  *
+*           O O                   |     caused by a virus - we did it!      |  *
+*     O =============  O          -------------------------------------------  *
+*     O ============== O                                                       *
+*     OOOOOOOOOOOOOOOOOO                                                       *
+********************************************************************************

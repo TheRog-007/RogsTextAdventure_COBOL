@@ -1,0 +1,28 @@
+********************************************************************************
+*                                                                              *
+* RRRRRRRRRRRR    OOOOOOOOOOO     GGGGGGGGGG      EEEEEEEEEEEE    RRRRRRRRRRR  *
+* R          R    O         O     G               E               R         R  *
+* R          R    O         O     G               E               R         R  *
+* RRRRRRRRRRR     O         O     G      GGGGGG   EEEEEEEEEEEE    RRRRRRRRRRR  *
+* RR              O         O     G        G      E               RR           *
+* R R             O         O     G        G      E               R R          *
+* R  R            O         O     G        G      E               R  R         *
+* R   R           O         O     G        G      E               R   R        *
+* R     R         OOOOOOOOOOO     GGGGGGGGGG      EEEEEEEEEEEE    R     R      *
+*                                                                              *
+*      SSSSSSSSSSSS       OOOOOOOOOOO      FFFFFFFFFFF     TTTTTTTTTTTTT       *
+*      S                  O         O      F                    T              *
+*      S                  O         O      F                    T              *
+*      SSSSSSSSSSSS       O         O      FFFFFFFFFFF          T              *
+*                 S       O         O      F                    T              *
+*                 S       O         O      F                    T              *
+*      SSSSSSSSSSSS       OOOOOOOOOOO      F                    T              *
+*                                                                              *
+* PPPPPPP   RRRRRRR   EEEEEE   SSSSSS   EEEEEE   N     N   TTTTTT   SSSSSS     *
+* P     P   R     R   E        S        E        N N   N     T      S          *
+* PPPPPPP   RRRRRRR   E        S        E        N  N  N     T      S          *
+* P         RR        EEEEEE   SSSSSS   EEEEEE   N   N N     T      SSSSSS     *
+* P         R  R      E             S   E        N    NN     T           S     *
+* P         R    R    EEEEEE   SSSSSS   EEEEEE   N     N     T      SSSSSS     *
+*                                                                              *
+********************************************************************************
